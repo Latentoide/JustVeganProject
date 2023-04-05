@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JustVeganProject</string>
+    <string name="JustVegan">JustVegan</string>
+    <string name="IniciaSersion">Log in with you\'r email</string>
+    <string name="separadorPuntos">.....................................................................................................</string>
+    <string name="WriteCredentials">Write you\'r credentials to sign up</string>
+    <string name="sign_up">Sign up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="this_symbol_means_that_is_necessary_to_fill_that_field">This symbol means that is necessary to fill that field</string>
+</resources>
